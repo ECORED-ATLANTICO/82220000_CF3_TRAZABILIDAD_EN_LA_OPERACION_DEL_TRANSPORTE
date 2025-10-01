@@ -57,6 +57,10 @@ figcaption
     background-color: #FFE69B
   &-3
     background-color: #D5D1E2
+  &-4
+    background-color: #E8F4FF
+  &-5
+    background-color: #FEF2EF
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -80,8 +84,8 @@ figcaption
 
 ///////////FondoImg//////////////////
 .bg-fondo
-  //&-1
-    background-image: url("../assets/curso/bg1.svg") !important
+  &-1
+    background-image: url("../assets/curso/bg1.png") !important
     background-position: bottom
     background-repeat: no-repeat
     background-size: cover
@@ -103,3 +107,106 @@ figcaption
   border-radius: 10px
   padding: 20px 30px
   margin-top: -60px
+
+////////SOMBRA CAJON//////////
+.box-shadow
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  padding: 20px;
+  border-radius: 8px; /* Opcional, para bordes redondeados */
+
+.bg-cuadros
+  background-image: url("../assets/curso/bg3.png")
+  background-repeat: no-repeat
+  background-position: center top
+  background-size: cover
+  &--1
+    background-image: url("../assets/curso/bg4.png")
+  
+//////////////CUSTOM TABS-A/////////////
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #A82250
+  color: #fff
+.tabs-a__tab
+  background-color: #E8F4FF
+.tarjeta.color-acento-botones--borde
+  background-color: #E3E230
+  border: solid 4px #E3E230
+
+.conectadas-horizontal
+  .crd--avatarHorizontal
+    position: relative
+    padding-right: 2rem
+    @media screen and (min-width: $bp-min-lg)
+      padding-right: 18rem
+
+  .crd--avatarHorizontal:before 
+    position: absolute
+    content: ""
+    top: 0
+    right: 0
+    width: calc(100% - 60px)
+    height: 100%
+    background-color: #E8F4FF
+
+  .crd--first:before 
+    border-top-left-radius: 30px
+
+  .avatar
+    position: absolute
+    bottom: 0
+    right: -4rem
+    z-index: 1
+
+  .crd--last:before
+    border-bottom-left-radius: 30px
+
+  .crd--avatarHorizontal>*
+    position: relative
+
+  .crd-bg-primario:before
+    background-color: #F9F8E9 !important
+
+.factores-slider
+  &__tarjeta
+    border-radius: 14px
+    height: 97% !important
+    margin: 10px
+    
+  &__icon 
+    max-width: 239px
+
+  &__number
+    color: $color-secundario
+    font-size: 30px
+    
+    &.color-acento-contenido
+      color: $color-acento-contenido
+      margin-bottom: 10px
+
+  .slyder-f
+    align-items: center
+
+    .slyder-f__main
+      width: 70%
+
+      @media (min-width: 769px)
+        width: 80%
+
+  .slyder-f__btn
+    height: 35px
+    width: 35px
+    max-width: 35px
+    background-color: $color-acento-botones
+    border-radius: 50%
+    padding: 0 !important
+    margin: 0 auto
+    color: $white
+    .fa-chevron-left
+      font-size: 20px
+    .fa-chevron-right
+      font-size: 20px
+
+//////////COLOR_TEXTO_BOTON_REGRESAR///////////
+.barra-avance__boton--regresar span
+  color: white !important
