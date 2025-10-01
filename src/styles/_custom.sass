@@ -61,6 +61,9 @@ figcaption
     background-color: #E8F4FF
   &-5
     background-color: #FEF2EF
+  &-6
+    .tarjeta--blanca
+      background-color: #E3E230
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -94,7 +97,7 @@ figcaption
     background-position: bottom
     background-repeat: no-repeat
     background-size: cover
-  //&-slider
+  &-slider
     background-image: url("../assets/curso/bg-slider.png") !important
     background-position: bottom
 
@@ -122,6 +125,10 @@ figcaption
   background-size: cover
   &--1
     background-image: url("../assets/curso/bg4.png")
+  &--2
+    background-image: url("../assets/curso/bg6.png")
+  &--3
+    background-image: url("../assets/curso/bg7.png")
   
 //////////////CUSTOM TABS-A/////////////
 .tabs-a.color-acento-botones .tabs-a__tab__selected 
@@ -210,3 +217,40 @@ figcaption
 //////////COLOR_TEXTO_BOTON_REGRESAR///////////
 .barra-avance__boton--regresar span
   color: white !important
+
+.bg-decorado
+  background-image: url("../assets/curso/bg5.png")
+  background-repeat: no-repeat
+  background-position: center top
+  background-size: cover
+
+  @media screen and (min-width: $bp-min-xl)
+    padding-right: 100px !important
+  
+  //&--1
+    background-image: url("../assets/curso/temas/tema4/bg-2.png")
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #A82250 !important
+  color: white
+.acordion__activo
+  background-color: #E8F4FF!important
+.acordion_titulo
+  color: #fff !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+
+//////////////CUSTON SLYDER-A////////
+.slyder-a__bullets__item 
+  background-color: #D9ECFF
+  border: #D9ECFF
+.slyder-a__bullets__item--active
+  background-color: #92C9FF
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #615E4B

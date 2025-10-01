@@ -163,55 +163,55 @@
           .tarjeta.bg-cuadros.bg-cuadros--1.p-4.factores-slider__tarjeta
             .row.justify-content-end.mb-2
               .col-4
-                img.factores-slider__icon.mb-4(src='@/assets/curso/01.svg' alt='Ilustacion de acompañamiento')
+                img.factores-slider__icon.mb-4(src='@/assets/curso/tema1/01.svg' alt='Ilustacion de acompañamiento')
             h4.mb-1 Definir objetivos 
             p.mb-4 Establecer metas claras como seguridad, eficiencia o reducción de costos, que orienten todo el sistema de monitoreo.
 
           .tarjeta.bg-cuadros.bg-cuadros--1.p-4.factores-slider__tarjeta
             .row.justify-content-end.mb-2
               .col-4
-                img.factores-slider__icon.mb-4(src='@/assets/curso/02.svg' alt='Ilustacion de acompañamiento')
+                img.factores-slider__icon.mb-4(src='@/assets/curso/tema1/02.svg' alt='Ilustacion de acompañamiento')
             h4.mb-1 Analizar necesidades	
             p.mb-4 Identificar qué vehículos, rutas, cargas y riesgos deben controlarse, así como los indicadores más relevantes.
 
           .tarjeta.bg-cuadros.bg-cuadros--1.p-4.factores-slider__tarjeta
             .row.justify-content-end.mb-2
               .col-4
-                img.factores-slider__icon.mb-4(src='@/assets/curso/03.svg' alt='Ilustacion de acompañamiento')
+                img.factores-slider__icon.mb-4(src='@/assets/curso/tema1/03.svg' alt='Ilustacion de acompañamiento')
             h4.mb-1 Seleccionar tecnología	
             p.mb-4 Escoger las herramientas adecuadas (GPS, sensores, <em>software</em>, entre otros) que permitan recopilar y procesar la información requerida.
 
           .tarjeta.bg-cuadros.bg-cuadros--1.p-4.factores-slider__tarjeta
             .row.justify-content-end.mb-2
               .col-4
-                img.factores-slider__icon.mb-4(src='@/assets/curso/04.svg' alt='Ilustacion de acompañamiento')
+                img.factores-slider__icon.mb-4(src='@/assets/curso/tema1/04.svg' alt='Ilustacion de acompañamiento')
             h4.mb-1 Instalar y configurar	
             p.mb-4 Implementar los equipos en los vehículos y configurar el <em>software</em> con parámetros, alertas y reportes útiles.
 
           .tarjeta.bg-cuadros.bg-cuadros--1.p-4.factores-slider__tarjeta
             .row.justify-content-end.mb-2
               .col-4
-                img.factores-slider__icon.mb-4(src='@/assets/curso/05.svg' alt='Ilustacion de acompañamiento')
+                img.factores-slider__icon.mb-4(src='@/assets/curso/tema1/05.svg' alt='Ilustacion de acompañamiento')
             h4.mb-1 Capacitar personal	
             p.mb-4 Formar a conductores y supervisores en el manejo de las herramientas y en la correcta interpretación de los datos.
 
           .tarjeta.bg-cuadros.bg-cuadros--1.p-4.factores-slider__tarjeta
             .row.justify-content-end.mb-2
               .col-4
-                img.factores-slider__icon.mb-4(src='@/assets/curso/06.svg' alt='Ilustacion de acompañamiento')
+                img.factores-slider__icon.mb-4(src='@/assets/curso/tema1/06.svg' alt='Ilustacion de acompañamiento')
             h4.mb-1 Establecer protocolos	
             p.mb-4 Definir roles, responsabilidades y procedimientos de acción frente a alertas, imprevistos o emergencias.
 
           .tarjeta.bg-cuadros.bg-cuadros--1.p-4.factores-slider__tarjeta
             .row.justify-content-end.mb-2
               .col-4
-                img.factores-slider__icon.mb-4(src='@/assets/curso/07.svg' alt='Ilustacion de acompañamiento')
+                img.factores-slider__icon.mb-4(src='@/assets/curso/tema1/07.svg' alt='Ilustacion de acompañamiento')
             h4.mb-1 Monitorear y reportar	
             p.mb-4 Realizar el seguimiento en tiempo real, verificar el desempeño y generar informes periódicos de la operación.
           .tarjeta.bg-cuadros.bg-cuadros--1.p-4.factores-slider__tarjeta
             .row.justify-content-end.mb-2
               .col-4
-                img.factores-slider__icon.mb-4(src='@/assets/curso/08.svg' alt='Ilustacion de acompañamiento')
+                img.factores-slider__icon.mb-4(src='@/assets/curso/tema1/08.svg' alt='Ilustacion de acompañamiento')
             h4.mb-1 Revisar y optimizar	
             p.mb-4 Evaluar resultados, detectar áreas de mejora y ajustar el sistema para asegurar precisión y eficiencia continua.
         
