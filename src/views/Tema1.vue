@@ -9,7 +9,7 @@
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/intro/1.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}"
       )(data-aos="zoom-in")
       .bloque-texto-g__texto.p-4
         p.mb-0 El monitoreo constituye un pilar esencial en la gestión de operaciones de transporte, ya que permite supervisar de manera continua el desarrollo de las actividades logísticas. A través de este proceso, las empresas pueden optimizar recursos, prevenir riesgos, garantizar la seguridad de la carga y del personal, y asegurar el cumplimiento de los objetivos establecidos.
@@ -21,8 +21,8 @@
         #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 1.1 Concepto
         
-        .row.mb-5
-          .col-lg-4.mb-3.mb-lg-0
+        .row.mb-5.justify-content-center
+          .col-md-8.col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/2.png", data-aos="zoom-in")
           .col-lg-8
@@ -45,7 +45,7 @@
                   .d-flex.justify-content-center
                     img(data-aos="fade-up")(src="@/assets/curso/tema1/3.png" alt="Imagen decorativo")
         
-        .row.justify-content-center.align-items-stretch.mb-4.z-2
+        .row.justify-content-center.align-items-stretch.z-2
           .col-xl-10
             TabsA.color-primario
               .tarjeta.bg-color-4.p-4.h-100.d-flex.align-items-center(titulo="Tiempo  real")
@@ -77,7 +77,7 @@
         p(data-aos="fade-left") El éxito del monitoreo en el transporte depende directamente de las tecnologías implementadas. Estas herramientas trabajan en conjunto para ofrecer una visión integral de la operación, mejorando la seguridad, eficiencia y control:s.
       .col-lg-1.mb-3.mb-lg-0
         figure
-          img(src="@/assets/curso/tema1/10.svg", data-aos="zoom-in")
+          img.d-none.d-lg-flex(src="@/assets/curso/tema1/10.svg", data-aos="zoom-in")
 
     .row.justify-content-center.mb-5.z-2.conectadas-horizontal
       .col-lg-10.position-relative
@@ -147,7 +147,7 @@
     
     .bg-color-5.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-        .col-lg-auto.mb-3.mb-lg-0
+        .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
           figure
             img(src='@/assets/curso/tema1/8.png', alt='')
         .col-lg

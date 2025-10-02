@@ -39,8 +39,8 @@
             
             p.mb-5 El rastreo puede aplicarse a distintos elementos dentro de la operación de transporte, según las necesidades de identificación y seguimiento. Sus principales clases son:
         
-        .row.align-items-start.mb-5.justify-content-center
-          .col-lg-2.mb-3.mb-lg-0
+        .row.align-items-start.justify-content-center
+          .col-md-5.col-lg-2.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema2/3.png", alt="").mb-4.mb-lg-0
           .col-lg-8
@@ -54,6 +54,8 @@
               .div(titulo="Rastreo de personal")
                 p Aunque menos habitual en el transporte masivo de mercancías, se aplica en distribución o servicios de campo. Consiste en el seguimiento de conductores o personal de entrega mediante dispositivos móviles o wearables. Mejora la seguridad del trabajador, optimiza la logística de última milla y facilita el control de horarios.
     
+    separador 
+
     .row.justify-content-center
       .col-lg-10
         #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

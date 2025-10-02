@@ -23,9 +23,9 @@
         #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 5.1 Características 
 
-        .row.align-items-center
-          .col-lg-auto
-            img(src="@/assets/curso/tema5/2.svg", style="max-width: 90px").mx-auto
+        .row.align-items-center.justify-content-center
+          .col-md-8.col-lg-auto.mb-3.mb-lg-0
+            img(src="@/assets/curso/tema5/2.svg").mx-auto
           .col-lg
             p.mb-0 Para que un informe de operación cumpla con su propósito, debe reunir una serie de cualidades que aseguren su utilidad y credibilidad. Estas características permiten que la información sea clara, precisa y confiable, además de facilitar su análisis y el seguimiento continuo de la gestión operativa:
     

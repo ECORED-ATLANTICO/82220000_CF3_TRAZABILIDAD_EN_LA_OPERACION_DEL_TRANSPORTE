@@ -17,7 +17,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/intro/2.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 Este componente también enfatiza el análisis de contingencias y en la generación de reportes e informes que respaldan la toma de decisiones con información precisa y confiable. Con un enfoque en la mejora continua, promueve la capacidad de evaluar el desempeño operativo y aplicar correctivos de forma proactiva. Así, se contribuye a la formación de profesionales capaces de asegurar la competitividad y sostenibilidad en la cadena de suministro.

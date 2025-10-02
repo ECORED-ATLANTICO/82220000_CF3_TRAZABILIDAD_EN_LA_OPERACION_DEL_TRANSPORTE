@@ -7,11 +7,11 @@
         span 3
       h1 Contingencias aplicadas
     
-    .bg-full-width.bg-fondo-1.mb-5
+    .bg-full-width.bg-fondo-1
       .p-4.p-md-5
-        .row.align-items-center
-          .col-lg-auto
-            img(src="@/assets/curso/tema3/1.svg", style="max-width: 90px").mx-auto
+        .row.align-items-center.justify-content-center
+          .col-md-8.col-lg-auto.mb-3.mb-lg-0
+            img(src="@/assets/curso/tema3/1.svg").mx-auto
           .col-lg
             p.mb-0 En el transporte, la operación no siempre transcurre según lo previsto, pues existen factores internos y externos que pueden generar interrupciones o riesgos. Para hacerles frente, es necesario comprender claramente qué son las contingencias y cómo afectan el sistema.
         
@@ -30,7 +30,7 @@
             p(data-aos="fade-left") Una contingencia es cualquier evento o situación no planificada e indeseada que tiene el potencial de afectar negativamente la continuidad, la seguridad, la eficiencia o el cumplimiento de una operación de transporte. Estos eventos pueden variar en su origen, desde fallas internas del sistema hasta factores externos incontrolables, y su impacto puede ir desde un leve retraso hasta la pérdida total de la carga o del vehículo. Su característica principal es su naturaleza inesperada y la necesidad de una respuesta rápida y efectiva.
           .col-lg-1.mb-3.mb-lg-0
             figure
-              img(src="@/assets/curso/tema3/18.svg", data-aos="zoom-in")
+              img.d-none.d-lg-flex(src="@/assets/curso/tema3/18.svg", data-aos="zoom-in")
     
     separador
 
@@ -125,39 +125,39 @@
     
         .tarjeta.bg-fondo-2
           SlyderA(tipo="b").p-4
-            .row.align-items-center
+            .row.align-items-center.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
                 h5 Planes  de emergencia general
                 p Abordan desastres naturales, fallas masivas de sistemas o crisis sanitarias. Definen protocolos de comunicación, roles, puntos de evacuación y recursos de respaldo.
-              .col-lg-2
+              .col-md-6.col-lg-2
                 figure
                   img(src='@/assets/curso/tema3/9.svg', alt='Texto que describa la imagen')
-            .row.align-items-center
+            .row.align-items-center.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
                 h5 Accidentes de tráfico
                 p Incluyen la atención de heridos, gestión de la escena, notificación a autoridades / aseguradoras y recuperación del vehículo y la carga.
-              .col-lg-2
+              .col-md-6.col-lg-2
                 figure
                   img(src='@/assets/curso/tema3/10.svg', alt='Texto que describa la imagen')
-            .row.align-items-center
+            .row.align-items-center.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
                 h5 Robo o asalto de vehículos/carga
                 p Procedimientos para notificación inmediata, colaboración con autoridades, rastreo y recuperación de activos.
-              .col-lg-2
+              .col-md-6.col-lg-2
                 figure
                   img(src='@/assets/curso/tema3/11.svg', alt='Texto que describa la imagen')
-            .row.align-items-center
+            .row.align-items-center.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
                 h5 Derrames de sustancias peligrosas
                 p Guías para contención y limpieza, notificación a entidades ambientales y protección del personal y entorno.
-              .col-lg-2
+              .col-md-6.col-lg-2
                 figure
                   img(src='@/assets/curso/tema3/12.svg', alt='Texto que describa la imagen')
-            .row.align-items-center
+            .row.align-items-center.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
                 h5 Fallas mecánicas mayores
                 p Protocolos para evaluación técnica, asistencia en ruta, traslado del vehículo y continuidad de la operación.
-              .col-lg-2
+              .col-md-6.col-lg-2
                 figure
                   img(src='@/assets/curso/tema3/13.svg', alt='Texto que describa la imagen')
 
@@ -170,7 +170,7 @@
         
         .bg-color-5.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/14.png', alt='')
             .col-lg
