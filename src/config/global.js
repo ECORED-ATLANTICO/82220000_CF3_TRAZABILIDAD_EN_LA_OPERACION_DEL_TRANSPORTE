@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Supervisión de la operación de transporte.',
+    Name: 'Supervisión de la operación de transporte',
     Description:
       'Este componente formativo aborda fundamentos teóricos y prácticos de la supervisión de la operación de transporte con enfoque en trazabilidad. Explora el monitoreo, rastreo y manejo de contingencias, así como la elaboración de reportes e informes. Permite al aprendiz aplicar herramientas y procedimientos para garantizar eficiencia, seguridad y cumplimiento normativo en la gestión logística.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -191,7 +191,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA3_82220000_DU.pdf',
       },
       {
         icono: 'fas fa-download',

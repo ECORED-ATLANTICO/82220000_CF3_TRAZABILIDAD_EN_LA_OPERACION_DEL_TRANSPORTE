@@ -137,7 +137,7 @@
               figure
                 img(src="@/assets/curso/tema1/7.svg", alt="alt").img100
             .col
-              h5.mb-1 Software de gestión de flotas
+              h5.mb-1 <em>Software</em> de gestión de flotas
               p.mb-0 Integra GPS, telemetría y sensores en una sola plataforma. Genera informes, alertas, planes de mantenimiento, optimiza rutas y permite comunicación con conductores.
 
     separador

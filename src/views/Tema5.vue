@@ -99,7 +99,7 @@
               ul
                 li • Fuentes
                 li • Período
-                li • Software
+                li • <em>Software</em>
                 li • KPIs
           tr
             td Resultados

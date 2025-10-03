@@ -12,7 +12,7 @@
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
-        p.banner-text.box-shadow El componente formativo “Supervisión de la operación de transporte” ofrece al aprendiz herramientas técnicas y prácticas para abordar de manera integral la gestión de la trazabilidad en los procesos logísticos. A partir del conocimiento de conceptos como el monitoreo, el rastreo y la aplicación de procedimientos operativos estandarizados, se fortalecen las competencias necesarias para identificar desviaciones, controlar riesgos y garantizar el cumplimiento de la normativa. Esto permite al aprendiz actuar de manera oportuna y estratégica para mantener la eficiencia y la seguridad en cada fase del transporte.
+        p.banner-text.box-shadow El componente formativo <b>“Supervisión de la operación de transporte”</b> ofrece al aprendiz herramientas técnicas y prácticas para abordar de manera integral la gestión de la trazabilidad en los procesos logísticos. A partir del conocimiento de conceptos como el monitoreo, el rastreo y la aplicación de procedimientos operativos estandarizados, se fortalecen las competencias necesarias para identificar desviaciones, controlar riesgos y garantizar el cumplimiento de la normativa. Esto permite al aprendiz actuar de manera oportuna y estratégica para mantener la eficiencia y la seguridad en cada fase del transporte.
     
     .row.justify-content-center.mb-5
       .col-lg-10
