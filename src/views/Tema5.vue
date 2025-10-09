@@ -143,7 +143,7 @@
         .p-4.py-lg-0.bg-cuadros.bg-cuadros--2.rounded-4.overflow-hidden.mb-5
           .row.align-items-center
             .col-sm-11.col-lg-9.ms-auto.order-2
-              p.mb-0 El rastreo eficiente se apoya en diversas tecnologías que permiten identificar, registrar y seguir con precisión los elementos en la cadena de transporte. Estas herramientas proporcionan la base para la trazabilidad y la gestión operativa en tiempo real y a lo largo de todo el recorrido logístico.
+              p.mb-0 Un informe de operación bien estructurado garantiza que los datos no solo se registren, sino que se transformen en información clara y útil para evaluar el desempeño, optimizar procesos y respaldar decisiones estratégicas en la gestión del transporte.
             .d-none.d-lg-block.col-lg-3.order-1
               .d-flex.justify-content-center
                 img(data-aos="fade-up")(src="@/assets/curso/tema5/4.png" alt="Imagen decorativo")

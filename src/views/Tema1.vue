@@ -35,7 +35,7 @@
         .row.justify-content-center.mb-5
           .col-lg-10
             #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-              h2 1.2 Concepto
+              h2 1.2 Clases
             
             .p-4.py-lg-0.bg-cuadros.bg-cuadros--4.rounded-4.overflow-hidden
               .row.align-items-center

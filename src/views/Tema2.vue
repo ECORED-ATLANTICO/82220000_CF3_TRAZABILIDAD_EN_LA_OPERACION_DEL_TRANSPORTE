@@ -49,10 +49,10 @@
                 p Es la aplicación más frecuente y se realiza mediante sistemas GPS y telemática. Permite conocer la ubicación exacta, velocidad, dirección, paradas y estado de sensores del vehículo (por ejemplo, puertas o nivel de combustible). Contribuye a la seguridad de la unidad, la optimización de rutas y la puntualidad en las entregas.
         
               .div(titulo="Rastreo de carga o mercancías")
-                p Se centra en unidades de carga individuales o consolidadas (cajas, palets, contenedores y paquetes). Utiliza dispositivos adheridos o integrados a la carga para registrar ubicación, procesos de carga y descarga, así como condiciones específicas (temperatura, golpes, entre otros). Es esencial para garantizar la integridad de la cadena de frío, prevenir pérdidas y mantener informados a los clientes.
+                p Se centra en unidades de carga individuales o consolidadas (cajas, <em>palets</em>, contenedores y paquetes). Utiliza dispositivos adheridos o integrados a la carga para registrar ubicación, procesos de carga y descarga, así como condiciones específicas (temperatura, golpes, entre otros). Es esencial para garantizar la integridad de la cadena de frío, prevenir pérdidas y mantener informados a los clientes.
         
               .div(titulo="Rastreo de personal")
-                p Aunque menos habitual en el transporte masivo de mercancías, se aplica en distribución o servicios de campo. Consiste en el seguimiento de conductores o personal de entrega mediante dispositivos móviles o wearables. Mejora la seguridad del trabajador, optimiza la logística de última milla y facilita el control de horarios.
+                p Aunque menos habitual en el transporte masivo de mercancías, se aplica en distribución o servicios de campo. Consiste en el seguimiento de conductores o personal de entrega mediante dispositivos móviles o <em>wearables</em>. Mejora la seguridad del trabajador, optimiza la logística de última milla y facilita el control de horarios.
     
     separador 
 
