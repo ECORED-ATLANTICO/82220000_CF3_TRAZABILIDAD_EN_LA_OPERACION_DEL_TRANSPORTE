@@ -74,7 +74,7 @@
         figure
           img(src="@/assets/curso/tema1/4.svg", data-aos="zoom-in")
       .col-lg-7
-        p(data-aos="fade-left") El éxito del monitoreo en el transporte depende directamente de las tecnologías implementadas. Estas herramientas trabajan en conjunto para ofrecer una visión integral de la operación, mejorando la seguridad, eficiencia y control:s.
+        p(data-aos="fade-left") El éxito del monitoreo en el transporte depende directamente de las tecnologías implementadas. Estas herramientas trabajan en conjunto para ofrecer una visión integral de la operación, mejorando la seguridad, eficiencia y control:
       .col-lg-1.mb-3.mb-lg-0
         figure
           img.d-none.d-lg-flex(src="@/assets/curso/tema1/10.svg", data-aos="zoom-in")

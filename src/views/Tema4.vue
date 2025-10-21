@@ -37,7 +37,7 @@
     PasosA.color-secundario.mb-5(tipo="n")
       .row.align-items-center.justify-content-center
         .col-lg-8.mb-4.mb-lg-0
-          h3 Identificación del envío/carga
+          h3 Identificación del envío / carga
           p Incluye el número único de envío o guía de transporte, la descripción de la carga (tipo, cantidad, peso, dimensiones, entre otros), el valor declarado para seguros y contabilidad, así como los datos completos del remitente y del destinatario. Este bloque garantiza la individualización de cada operación de transporte.
         .col-md-8.col-lg-4
           figure
@@ -64,7 +64,7 @@
             img(src='@/assets/curso/tema4/5.png', alt='Texto que describa la imagen')
         .col-lg-8
           h3 Información del activo de transporte
-          p Describe los recursos utilizados: identificación del vehículo (placa y tipo), datos del conductor (nombre y licencia), estado del vehículo (kilometraje inicial/final y consumo de combustible), así como condiciones ambientales relevantes como temperatura y humedad en contenedores refrigerados.
+          p Describe los recursos utilizados: identificación del vehículo (placa y tipo), datos del conductor (nombre y licencia), estado del vehículo (kilometraje inicial / final y consumo de combustible), así como condiciones ambientales relevantes como temperatura y humedad en contenedores refrigerados.
       .row.align-items-center.justify-content-center
         .col-lg-8.mb-4.mb-lg-0
           h3 Incidentes y desviaciones

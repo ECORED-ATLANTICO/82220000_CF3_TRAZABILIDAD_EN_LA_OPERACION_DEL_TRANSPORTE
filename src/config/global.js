@@ -126,7 +126,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Reporte de sistema de trazabilidad',
+        titulo: 'Reporte del sistema de trazabilidad',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -396,7 +396,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Carlos Andrés Diaz Pinto',
+          nombre: 'Carlos Andrés Díaz Pinto',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

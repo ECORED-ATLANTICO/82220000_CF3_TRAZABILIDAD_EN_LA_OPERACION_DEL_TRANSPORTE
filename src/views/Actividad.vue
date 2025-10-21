@@ -131,7 +131,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'FalsoResaltar las conexiones de los pines.',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -166,7 +166,7 @@ export default {
         {
           id: 7,
           texto:
-            'Los sensores de temperatura y humedad pueden ser parte del sistema de trazabilidad',
+            'Los sensores de temperatura y humedad pueden ser parte del sistema de trazabilidad.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

@@ -77,7 +77,7 @@
                 img(src="@/assets/curso/tema3/5.svg", alt="alt").img100
             .col
               h5.mb-1 Retrasos operacionales
-              p.mb-0 Demoras por tráfico, congestión en carga/descarga, problemas en aduanas o esperas prolongadas.
+              p.mb-0 Demoras por tráfico, congestión en carga / descarga, problemas en aduanas o esperas prolongadas.
               
         .crd.crd--avatarHorizontal.py-3.crd-bg-primario
           .row.align-items-center
@@ -141,7 +141,7 @@
                   img(src='@/assets/curso/tema3/10.svg', alt='Texto que describa la imagen')
             .row.align-items-center.justify-content-center
               .col-lg-10.mb-4.mb-lg-0
-                h5 Robo o asalto de vehículos/carga
+                h5 Robo o asalto de vehículos / carga
                 p Procedimientos para notificación inmediata, colaboración con autoridades, rastreo y recuperación de activos.
               .col-md-6.col-lg-2
                 figure
