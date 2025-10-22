@@ -7,7 +7,7 @@
         figure
           img(src="@/assets/curso/1.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-left") El componente formativo “Supervisión de la operación de transporte” permite comprender los procesos de control logístico, desde su monitoreo hasta la generación de informes. Se inicia con el monitoreo, abordando concepto, clases, herramientas y procedimientos; seguido del rastreo, que garantiza la visibilidad en tiempo real de los activos.
+        p(data-aos="fade-left") El componente formativo Supervisión de la operación de transporte permite comprender los procesos de control logístico, desde su monitoreo hasta la generación de informes. Se inicia con el monitoreo, abordando concepto, clases, herramientas y procedimientos; seguido del rastreo, que garantiza la visibilidad en tiempo real de los activos.
     
         .cajon.color-secundario.p-5.mb-4.bg-color-1.mb-3
           p.mb-0 Luego, se estudian las contingencias aplicadas, su tipología, planes de respuesta, criterios de evaluación y protocolos de atención. También se analizan los reportes del sistema de trazabilidad, identificando sus elementos clave para la toma de decisiones y el cumplimiento normativo.
